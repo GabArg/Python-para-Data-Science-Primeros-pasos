@@ -18,7 +18,7 @@ Todos los ejercicios fueron desarrollados en **Google Colab**, aprovechando su i
 
 ## 👨‍💻 Sobre mí
 
-Estoy formándome en ciencia de datos dentro del programa **ONE - Oracle Next Education**. Aprovecho mis francos y tiempos libres para seguir aprendiendo y avanzar en mi camino profesional 🚀.
+Estoy formándome en ciencia de datos dentro del programa **ONE - Oracle Next Education**.  🚀.
 
 ---
 
